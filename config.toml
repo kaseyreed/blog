@@ -1,4 +1,4 @@
-baseURL = 'https://kaseyreed.github.io/blog'
+baseURL = 'https://kaseyreed.github.io/'
 languageCode = 'en-us'
 title = 'Kasey Reed'
 theme = 'terminal'
@@ -69,7 +69,7 @@ paginate = 5
 
     [languages.en.params.logo]
       logoText = "Kasey Reed's Blog"
-      logoHomeLink = "/blog"
+      logoHomeLink = "/"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
