@@ -1,4 +1,4 @@
-baseURL = 'https://kaseyreed.github.io/'
+baseURL = 'https://kaseyreed.github.io/blog'
 languageCode = 'en-us'
 title = 'Kasey Reed'
 theme = 'terminal'
